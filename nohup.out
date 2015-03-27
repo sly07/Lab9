@@ -1,0 +1,221 @@
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+
+/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323
+      throw new mongoose.Error.MissingSchemaError(name);
+            ^
+MissingSchemaError: Schema hasn't been registered for model "Post".
+Use mongoose.model(name, schema)
+    at Mongoose.model (/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323:13)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/routes/index.js:4:21)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/app.js:8:14)
+    at Module._compile (module.js:456:26)
+
+npm ERR! Linux 3.14.27-25.47.amzn1.x86_64
+npm ERR! argv "node" "/usr/local/bin/npm" "start"
+npm ERR! node v0.10.21
+npm ERR! npm  v2.7.3
+npm ERR! code ELIFECYCLE
+npm ERR! section2-weather@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 8
+npm ERR! 
+npm ERR! Failed at the section2-weather@0.0.0 start script 'node ./bin/www'.
+npm ERR! This is most likely a problem with the section2-weather package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls section2-weather
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ec2-user/ec2-user/section2-weather/npm-debug.log
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+
+/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323
+      throw new mongoose.Error.MissingSchemaError(name);
+            ^
+MissingSchemaError: Schema hasn't been registered for model "Post".
+Use mongoose.model(name, schema)
+    at Mongoose.model (/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323:13)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/routes/index.js:4:21)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/app.js:8:14)
+    at Module._compile (module.js:456:26)
+
+npm ERR! Linux 3.14.27-25.47.amzn1.x86_64
+npm ERR! argv "node" "/usr/local/bin/npm" "start"
+npm ERR! node v0.10.21
+npm ERR! npm  v2.7.3
+npm ERR! code ELIFECYCLE
+npm ERR! section2-weather@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 8
+npm ERR! 
+npm ERR! Failed at the section2-weather@0.0.0 start script 'node ./bin/www'.
+npm ERR! This is most likely a problem with the section2-weather package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls section2-weather
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ec2-user/ec2-user/section2-weather/npm-debug.log
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+
+/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323
+      throw new mongoose.Error.MissingSchemaError(name);
+            ^
+MissingSchemaError: Schema hasn't been registered for model "Post".
+Use mongoose.model(name, schema)
+    at Mongoose.model (/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323:13)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/routes/index.js:4:21)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/app.js:8:14)
+    at Module._compile (module.js:456:26)
+
+npm ERR! Linux 3.14.27-25.47.amzn1.x86_64
+npm ERR! argv "node" "/usr/local/bin/npm" "start"
+npm ERR! node v0.10.21
+npm ERR! npm  v2.7.3
+npm ERR! code ELIFECYCLE
+npm ERR! section2-weather@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 8
+npm ERR! 
+npm ERR! Failed at the section2-weather@0.0.0 start script 'node ./bin/www'.
+npm ERR! This is most likely a problem with the section2-weather package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls section2-weather
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ec2-user/ec2-user/section2-weather/npm-debug.log
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+
+/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323
+      throw new mongoose.Error.MissingSchemaError(name);
+            ^
+MissingSchemaError: Schema hasn't been registered for model "Post".
+Use mongoose.model(name, schema)
+    at Mongoose.model (/home/ec2-user/ec2-user/section2-weather/node_modules/mongoose/lib/index.js:323:13)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/routes/index.js:4:21)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Module.require (module.js:364:17)
+    at require (module.js:380:17)
+    at Object.<anonymous> (/home/ec2-user/ec2-user/section2-weather/app.js:8:14)
+    at Module._compile (module.js:456:26)
+
+npm ERR! Linux 3.14.27-25.47.amzn1.x86_64
+npm ERR! argv "node" "/usr/local/bin/npm" "start"
+npm ERR! node v0.10.21
+npm ERR! npm  v2.7.3
+npm ERR! code ELIFECYCLE
+npm ERR! section2-weather@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 8
+npm ERR! 
+npm ERR! Failed at the section2-weather@0.0.0 start script 'node ./bin/www'.
+npm ERR! This is most likely a problem with the section2-weather package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls section2-weather
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ec2-user/ec2-user/section2-weather/npm-debug.log
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+[0mGET / [36m304 [0m12.153 ms - -[0m
+[0mGET /javascripts/angularApp.js [32m200 [0m11.697 ms - 1375[0m
+[0mPOST /posts [32m200 [0m34.477 ms - 83[0m
+[0mGET /posts [32m200 [0m7.330 ms - 85[0m
+[0mGET / [36m304 [0m1.378 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.804 ms - -[0m
+[0mGET /posts [32m200 [0m1.845 ms - 85[0m
+[0mGET /posts/55145eaa4332087a2c2b870e [33m404 [0m2.681 ms - 1137[0m
+[0mGET / [36m304 [0m1.074 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.879 ms - -[0m
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+[0mPUT /posts/55145eaa4332087a2c2b870e/upvote [32m200 [0m61.774 ms - 83[0m
+[0mGET / [32m200 [0m14.022 ms - 1888[0m
+[0mGET /tmUnblock.cgi [33m404 [0m8.027 ms - 1137[0m
+[0mGET / [32m200 [0m1.185 ms - 1888[0m
+[0mGET / [32m200 [0m1.052 ms - 1888[0m
+
+npm ERR! Linux 3.14.27-25.47.amzn1.x86_64
+npm ERR! argv "node" "/usr/local/bin/npm" "start"
+npm ERR! node v0.10.21
+npm ERR! npm  v2.7.3
+npm ERR! code ELIFECYCLE
+npm ERR! section2-weather@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the section2-weather@0.0.0 start script 'node ./bin/www'.
+npm ERR! This is most likely a problem with the section2-weather package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls section2-weather
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/ec2-user/ec2-user/section2-weather/npm-debug.log
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+[0mPOST /posts/55145eaa4332087a2c2b870e/comments [32m200 [0m128.334 ms - 102[0m
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+
+> section2-weather@0.0.0 start /home/ec2-user/ec2-user/section2-weather
+> node ./bin/www
+
+[0mGET /posts/ [32m200 [0m15.591 ms - 111[0m
